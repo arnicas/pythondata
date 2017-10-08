@@ -1,0 +1,8 @@
+Week 1: Program 
+
+- Make sure you have all the tools needed to work (Anaconda installation with Jupyter for Python 3)
+- Read the "Notebook Tips!" document
+- Look at the "Review Material notebook"
+- Look at the "Writing and Reading Data Files" notebook
+- Look at the "Tuples" notebook
+
